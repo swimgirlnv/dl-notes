@@ -1,0 +1,17 @@
+.note {
+  max-width: 80vw;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin: 0;
+  font-weight: normal;
+}
+
+.content {
+  max-width: 90%;
+}

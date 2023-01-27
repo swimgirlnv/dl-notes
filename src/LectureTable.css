@@ -1,0 +1,21 @@
+.table {
+  padding: 10px;
+  border: dashed;
+}
+
+.th {
+  padding: 10px;
+  text-align: left;
+}
+
+.th {
+  padding: 10px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.td {
+  padding: 10px;
+  text-align: left;
+  font-style: italic;
+}
