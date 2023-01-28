@@ -1,8 +1,7 @@
   import "./App.css";
-  import { useState, useEffect } from "react";
-  import LectureTable from "./LectureTable";
+  import LectureTable from "./lecturetable/LectureTable";
   import Lecture1 from "./notes/Lecture1";
-  import Break from "./Break";
+  import Break from "./buildingblocks/Break";
 
 
   function App() {

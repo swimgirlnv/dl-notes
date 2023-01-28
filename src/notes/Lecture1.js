@@ -1,3 +1,4 @@
+import Return from "../buildingblocks/Return"
 import "./notes.css"
 
 export default function lecture1 () {
@@ -138,9 +139,7 @@ export default function lecture1 () {
           </ul>
         </div>
         <br></br>
-        <div className="toTop">
-          <a href="#top">Back to Top</a>
-        </div>
+        <Return></Return>
       </div>
     </div>
   )
