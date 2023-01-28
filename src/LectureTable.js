@@ -14,7 +14,7 @@ export default function LectureTable() {
         <tr>
           <td className="td">1/27/2023</td>   
           <td className="td"><a href="#l1">Learn Basic Concepts of Machine Learning</a></td>
-          <td className="td"></td>
+          <td className="td"><a target="blank" href="https://drive.google.com/file/d/1dCS9DuzZVxGCTjybaU_xiWmeFnGU4mVB/view?usp=sharing">Slides</a></td>
         </tr>
 
       </table>
