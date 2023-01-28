@@ -16,3 +16,7 @@
   display: flex;
   justify-content: center;
 }
+
+.hr {
+  border-color: black;
+}
