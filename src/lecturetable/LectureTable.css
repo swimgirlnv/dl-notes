@@ -19,3 +19,11 @@
   text-align: left;
   font-style: italic;
 }
+
+a:link {
+  color: #d74;
+}
+
+a:visited {
+  color:#d74;
+}
