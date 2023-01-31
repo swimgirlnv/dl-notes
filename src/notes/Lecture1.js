@@ -54,7 +54,7 @@ export default function lecture1 () {
           </UnorderedList>
           <br></br>
           <TableContainer>
-            <Table className="table1" size='sm'>
+            <Table className="dottedtable" size='sm'>
               <Thead>
                 <Tr>
                   <Th>Variable</Th>
@@ -112,7 +112,7 @@ export default function lecture1 () {
         <br></br>
         <h3>How to know which function is best? Test a new observation!</h3>
         <TableContainer>
-          <Table className="table1" size="sm">
+          <Table className="dottedtable" size="sm">
               <Tr>
                 <Td><b>Underfit</b></Td>
                 <Td>“My model is not doing that well on the given data and new data”</Td>
@@ -133,7 +133,7 @@ export default function lecture1 () {
           <ListItem>Simulate scenario with data you have</ListItem>
         </UnorderedList>
         <TableContainer>
-          <Table className="table1" size='sm'>
+          <Table className="dottedtable" size='sm'>
             <Tbody>
               <Tr>
                   <Td><b>Training Set</b></Td>

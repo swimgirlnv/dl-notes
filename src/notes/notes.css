@@ -32,3 +32,16 @@
   border-style: dashed;
   padding-left: 10px;
 }
+
+/* https://stackoverflow.com/questions/3742975/subscript-and-superscript-for-the-same-element */
+.supsub {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+  vertical-align: middle;
+}
+
+.dottedtable {
+  border: dashed;
+  border-color: white;
+}

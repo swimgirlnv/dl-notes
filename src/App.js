@@ -1,6 +1,7 @@
   import "./App.css";
   import LectureTable from "./lecturetable/LectureTable";
   import Lecture1 from "./notes/Lecture1";
+  import Lecture2 from "./notes/Lecture2"
   import Break from "./buildingblocks/Break";
 
 
@@ -19,6 +20,10 @@
         <div className="notes">
           <div id="l1">
             <Lecture1></Lecture1>
+          </div>
+          <Break></Break>
+          <div id='l2'>
+            <Lecture2></Lecture2>
           </div>
           <Break></Break>
         </div>

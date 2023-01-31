@@ -32,6 +32,11 @@ export default function LectureTable() {
               <Td className="td"><a href="#l1">Learn Basic Concepts of Machine Learning</a></Td>
               <Td className="td"><a target="blank" href="https://drive.google.com/file/d/1dCS9DuzZVxGCTjybaU_xiWmeFnGU4mVB/view?usp=sharing">Slides</a></Td>
             </Tr>
+            <Tr>
+              <Td className="td">1/30/2023</Td>   
+              <Td className="td"><a href="#l2">The first component of a deep learning model</a></Td>
+              <Td className="td"><a target="blank" href="https://drive.google.com/file/d/1kUGan_fqyi6gGiRsAV_c4Fq5OZiL0HsF/view?usp=sharing">Slides</a></Td>
+            </Tr>
           </Tbody>
           <Tfoot>
             <Tr className="tr">
